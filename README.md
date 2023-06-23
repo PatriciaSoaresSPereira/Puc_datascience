@@ -1,4 +1,6 @@
 # Puc_datascience - MVP1-HEART DISEASE 
+![image](https://github.com/PatriciaSoaresSPereira/Puc_datascience/assets/136263539/366ffb67-2364-4ba3-8f10-74f433408ae9)
+
 
 1) Qual é a descrição do problema:
 
